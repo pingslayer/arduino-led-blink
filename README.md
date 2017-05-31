@@ -1,7 +1,7 @@
 # arduino-led-blink
 blink the onboard LED at pin 13
 
-This program blinks the onboard LED [at pin 13] in an incremental order, with a delay of 2sec between each iteration.
+This program blinks the onboard LED [at pin 13] in an incremental order, with a delay of 2sec between each iteration.  
 And on the serial monitor[Tools > Serial Monitor] you can see when the blinking starts, stops and no.of times it blinks.
 
 blining pattern:
