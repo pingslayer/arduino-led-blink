@@ -7,17 +7,25 @@ And on the serial monitor[Tools > Serial Monitor] you can see when the blinking 
 blining pattern:
 
 *blink*
+
 *blink* *blink*
+
 *blink* *blink* *blink* 
+
 *blink* *blink* *blink* *blink* 
+
 ...
 
 Serial monitor output:
 
 blinking started.....blinking stopped (1)
+
 blinking started.....blinking stopped (2)
+
 blinking started.....blinking stopped (3)
+
 blinking started.....blinking stopped (4)
+
 ...
 
 
