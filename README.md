@@ -29,7 +29,7 @@ blinking started.....blinking stopped (4)
 ...
 
 
-Sources:
+Sources:  
 https://www.arduino.cc/en/Reference/pinMode  
-https://www.arduino.cc/en/reference/serial
-https://www.arduino.cc/en/Reference/DigitalWrite
+https://www.arduino.cc/en/reference/serial  
+https://www.arduino.cc/en/Reference/DigitalWrite  
